@@ -48,9 +48,9 @@ const TOPICS = [
   "OFDMA vs TDMA/CDMA",
   "5G URLLC",
   "5G Security"
-] as const;
+];
 
-const DIFFICULTY = ["easy", "medium", "hard"] as const;
+const DIFFICULTY = ["easy", "medium", "hard"];
 
 // ---------- Question Bank ----------
 // Each question has: id, topic, difficulty, lecture, q, options[4], answer, explanation
